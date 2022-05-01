@@ -1,3 +1,5 @@
+This repository is a fork of the original ORBSLAM with a few changes in header files and dependencies to fix deprecated build errors. There is to ensure build is successful in the docker container and can run in conjunction with the deblur package as implemented in (https://github.com/Prassi07/orb-slam-16833)
+
 # ORB-SLAM2
 **Authors:** [Raul Mur-Artal](http://webdiis.unizar.es/~raulmur/), [Juan D. Tardos](http://webdiis.unizar.es/~jdtardos/), [J. M. M. Montiel](http://webdiis.unizar.es/~josemari/) and [Dorian Galvez-Lopez](http://doriangalvez.com/) ([DBoW2](https://github.com/dorian3d/DBoW2))
 
